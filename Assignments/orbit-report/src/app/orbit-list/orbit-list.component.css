@@ -29,3 +29,7 @@ th, td {
 .th-style {
     background-color: red;
 }
+button {
+    background-color: green;
+    cursor: pointer;
+}
